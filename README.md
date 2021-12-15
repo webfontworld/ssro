@@ -1,4 +1,4 @@
-# 설립체(SeoulNamsan)
+# 설립체(EstablishRetrosans)
 
 <a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/ssro/EstablishRetrosans.jpg" alt="EstablishRetrosans" style="width:300px">
